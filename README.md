@@ -12,3 +12,9 @@ Each click increments that URL's counter, making it easy to see how many times a
 
 	Show only category 'Search Engines'
 		[trebnie_bookmarks cat="Search Engine"]
+
+Admin Interface
+![Admin Interface](https://www.trebnie.nl/wp-content/uploads/2023/02/trebnie_bookmark_admin.png)
+
+User Interface
+![User Interface](https://www.trebnie.nl/wp-content/uploads/2023/02/trebnie_bookmark_frontend.png)
